@@ -1,0 +1,25 @@
+.SearchBox {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .SearchBox {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .SearchBox {
+        font-size: 12px;
+    }
+
+    .SearchBox form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .SearchBox button {
+        width: 100%;
+    }
+}
