@@ -18,7 +18,7 @@ You can get an API key by signing up at [OpenWeatherMap](https://openweathermap.
 
 ## Deployment
 
-You can view the live demo of the weather widget [here]([your-deployment-link](https://tempus-roan.vercel.app/)).
+You can view the live demo of the weather widget [here](https://tempus-roan.vercel.app/).
 
 
 ## License
