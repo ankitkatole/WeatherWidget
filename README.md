@@ -1,8 +1,28 @@
-# React + Vite
+# Simple Weather Widget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple weather widget created for the purpose of learning ReactJS. The widget fetches weather data and displays it in an easy-to-read format. 
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays current weather conditions
+- Shows temperature, humidity, and weather description
+
+## Technologies Used
+
+- ReactJS
+- OpenWeatherMap API
+- CSS for styling
+
+## Getting Started
+You can get an API key by signing up at [OpenWeatherMap](https://openweathermap.org/).
+
+## Deployment
+
+You can view the live demo of the weather widget [here]([your-deployment-link](https://tempus-roan.vercel.app/)).
+
+
+## License
+
+This project is licensed under the MIT License.
+
+Enjoy using the weather widget!
